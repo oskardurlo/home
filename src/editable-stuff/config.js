@@ -38,7 +38,7 @@ const about = {
   imageLink: require("../editable-stuff/oskardurlo.png"),
   imageSize: 375,
   message:
-    "My name is Oskar Durlo. I’m a graduate of 2020 from the University of Edinburgh with a degree in Mathematics. I'm most passionate about finding new ways to solve problems and giving back to the community. In my free time I like to travel and experience new cultures.",
+    "My name is Oskar Durlo. I’m a graduate of 2020 from the University of Edinburgh with a degree in Mathematics. I'm most passionate about finding new ways to solve problems and giving back to the community. In my free time I like to travel and experience different cultures.",
   resume: "https://docs.google.com/document/d/13_PWdhThMr6roxb-UFiJj4YAFOj8e_bv3Vx9UHQdyBQ/edit?usp=sharing",
 };
 
